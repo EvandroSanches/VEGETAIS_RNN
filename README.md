@@ -22,23 +22,32 @@ Explore este extenso conjunto de dados que oferece uma análise detalhada dos pr
 
 ## Resultados de previsões de cada feature 
 
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/2bd99f78-b784-4a0b-930f-c5cff5904d24)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/77a5346f-e8c7-46ff-add1-3ffbf8ab161e)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/300d3504-d5ba-4d40-bed6-99bf4ee62b5f)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/91e31e05-a98d-4742-ab3a-293ce6797602)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/06832492-005e-4a36-9a67-b948fd617601)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/52ce385b-9b56-4e95-899d-4031663ddf97)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/a3e3c4b1-24bb-46c7-b0a9-12d0e43566de)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/75a04fe0-4ed9-440b-ba92-f56a1129abc3)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/ab621338-efb8-4224-98cd-f300e0383cde)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/7a82de9b-c7b4-455d-9226-9f2b66f57fa5)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/9d09f23e-6cbf-49a3-87dc-5712520f392a)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/92b23c6b-1b7a-498a-af5c-3d50e0130564)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/eadce53d-46df-43c9-b3cb-bbb37f066d97)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/6898e441-353e-41b1-bb1f-5bfe798e67b6)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/9986a5c8-1522-4569-80b7-754d4719549d)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/d43b3237-d991-408c-be80-f300325bedaa)
+
 ##
-![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/5bab3673-0923-44dd-92fc-e3a502fd7864)
+![image](https://github.com/EvandroSanches/VEGETAIS_RNN/assets/102191806/25c9fa33-ba84-401d-885b-16097b56305f)
+
 ##
 ### Conclusão: o modelo se mostrou eficiente para demonstrar tendencia, porém, não se adaptou bem a outliers, talvez pela quantidade baixa de dados
 
